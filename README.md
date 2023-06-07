@@ -1,1 +1,1 @@
-# mrmn_sims_prototype
+# Prototype for MRMN simulation system
