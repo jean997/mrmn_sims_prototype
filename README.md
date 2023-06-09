@@ -9,4 +9,4 @@ Directions: \
 - Run the command `dsc run_benchmark.dsc` \
 - Run `RScript collect.R` \
 
-Results will be in `bench1_result.txt`
+Results will be in `bench1_result.RDS`
